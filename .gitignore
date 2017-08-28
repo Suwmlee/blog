@@ -1,0 +1,7 @@
+.idea
+*.py[co]
+*.swp
+*.pot
+*.mo
+
+.DS_Store
